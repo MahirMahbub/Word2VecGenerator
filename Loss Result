@@ -1,0 +1,30 @@
+word2vec_cbow_v300_e3_w3_min1.model
+    Model loss: 34049099.0
+    Model loss: 53035071.0
+    Model loss: 72061722.0
+
+word2vec_stem_cbow_v300_e3_w3_min1.model
+    Model loss: 37650924.0
+    Model loss: 57036276.0
+    Model loss: 69096712.0
+
+word2vec_stem_skipgram_v300_e3_w3_min1.model
+    Model loss: 76696920.0
+    Model loss: 89256496.0
+    Model loss: 98130864.0
+
+word2vec_skipgram_v300_e3_w3_min1.model
+    Model loss: 73618424.0
+    Model loss: 85116280.0
+    Model loss: 94299016.0
+  m
+word2vec_stem_skipgram_v300_e3_w3_min2.model
+    Model loss: 76714504.0
+    Model loss: 88842720.0
+    Model loss: 97712376.0
+    Synonyms: 52.112676056338024
+    Antonyms: 13.157894736842104
+    Analogy (k=1): 29.155900086132647
+    Analogy (k=2): 37.03703703703704
+    Analogy (k=3): 41.47286821705426
+    Analogy (k=4): 44.315245478036175
